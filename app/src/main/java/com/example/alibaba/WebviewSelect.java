@@ -23,7 +23,7 @@ public class WebviewSelect extends Activity{
 		setContentView(R.layout.activity_select_web);
 		
 		webView_log = (WebView)findViewById(R.id.webView_log);
-		webView_log.setWebViewClient(new WebClient()); // ÀÀ·æÇÁ·Î±×·¥¿¡¼­ Á÷Á¢ url Ã³¸®
+		webView_log.setWebViewClient(new WebClient());
         WebSettings set = webView_log.getSettings();
         set.setJavaScriptEnabled(true);
         set.setBuiltInZoomControls(true);
@@ -54,7 +54,7 @@ public class WebviewSelect extends Activity{
 //					insertfolderrequest.setEntity(httpEnty);
 //					HttpClient client = new DefaultHttpClient();
 //					HttpResponse httpRes = client.execute(insertfolderrequest);
-//					///////////////////////echo¸Þ¼¼Áö¸¦ °¡Á®¿È/////////////////////
+//					///////////////////////echoï¿½Þ¼ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½/////////////////////
 //					HttpEntity afterentity = httpRes.getEntity();
 //					final String htmlResponse = EntityUtils.toString(afterentity);
 //					/////////////////////////////////////////////////////////
@@ -73,7 +73,7 @@ public class WebviewSelect extends Activity{
 //					else if(htmlResponse.contains("Already")){ 
 //						MainActivity.this.runOnUiThread(new Runnable() {
 //							public void run() {
-//								Toast.makeText(MainActivity.this, "ÀÌ¹Ì Á¸ÀçÇÏ´Â Æú´õ¸íÀÔ´Ï´Ù.", Toast.LENGTH_SHORT).show();
+//								Toast.makeText(MainActivity.this, "ï¿½Ì¹ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô´Ï´ï¿½.", Toast.LENGTH_SHORT).show();
 //
 //							}
 //						});
@@ -81,7 +81,7 @@ public class WebviewSelect extends Activity{
 //					else { 
 //						MainActivity.this.runOnUiThread(new Runnable() {
 //							public void run() {
-//								Toast.makeText(MainActivity.this, "½ÇÆÐ."+htmlResponse, Toast.LENGTH_SHORT).show();
+//								Toast.makeText(MainActivity.this, "ï¿½ï¿½ï¿½ï¿½."+htmlResponse, Toast.LENGTH_SHORT).show();
 //
 //							}
 //						});

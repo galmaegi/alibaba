@@ -19,10 +19,9 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.GET_ACCOUNTS" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
-
-    <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
-    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <uses-feature
         android:glEsVersion="0x00020000"
@@ -35,20 +34,21 @@
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
+        android:supportsRtl="true"
         android:theme="@style/Theme.Alibaba" >
         <activity
-            android:name="com.example.alibaba.LoginActivity"
-            android:exported="true"
-            android:label="@string/app_name" >
-        </activity>
-        <activity
-            android:name="com.example.alibaba.SplashActivity"
+            android:name="com.example.alibaba.instancePasswordActivity"
             android:theme="@style/NoTitleTheme" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.alibaba.LoginActivity"
+            android:exported="true"
+            android:label="@string/app_name" >
         </activity>
         <activity android:name="com.example.alibaba.WebViewActivity" >
         </activity>
@@ -83,11 +83,6 @@
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
-
-        <activity
-            android:name="com.example.alibaba.PasswordActivity"
-            android:label="@string/title_activity_password" >
-        </activity>
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"
@@ -96,6 +91,29 @@
         <activity
             android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
             android:theme="@style/Theme.IAPTheme" />
+        <activity
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.google.android.gms.measurement.AppMeasurementContentProvider"
+            android:authorities="com.example.alibaba.google_measurement_service"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.measurement.UPLOAD" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
     </application>
 
 </manifest>

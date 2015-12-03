@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/galmaegi/바탕화면/Alibaba_proto/app/src/main/res/values-v11/styles.xml -->
+    <!-- From: file:/home/galmaegi/바탕화면/alibaba/app/src/main/res/values-v11/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="Theme.AppCompat.Light">
         <!-- API 11 theme customizations can go here. -->
     </style>
-    <!-- From: file:/home/galmaegi/바탕화면/Alibaba_proto/app/src/main/res/values-v11/styles_alibaba.xml -->
+    <!-- From: file:/home/galmaegi/바탕화면/alibaba/app/src/main/res/values-v11/styles_alibaba.xml -->
     <eat-comment/>
     <style name="AutoCompleteTextViewalibaba" parent="android:Widget.Holo.Light.AutoCompleteTextView">
       <item name="android:dropDownSelector">@drawable/alibaba_list_selector_holo_light</item>
 	    <item name="android:background">@drawable/alibaba_edit_text_holo_light</item>
   </style>
-    <!-- From: file:/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v11/values-v11.xml -->
+    <!-- From: file:/home/galmaegi/바탕화면/alibaba/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v11/values-v11.xml -->
     <eat-comment/>
     <style name="Base.TextAppearance.AppCompat.Inverse">
         <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
@@ -70,7 +70,7 @@
         <item name="android:dropDownSelector">?attr/listChoiceBackgroundIndicator</item>
         <item name="android:popupBackground">@drawable/abc_popup_background_mtrl_mult</item>
     </style>
-    <!-- From: file:/home/galmaegi/바탕화면/Alibaba_proto/app/src/main/res/values-v11/styles_alibaba.xml -->
+    <!-- From: file:/home/galmaegi/바탕화면/alibaba/app/src/main/res/values-v11/styles_alibaba.xml -->
     <eat-comment/>
     <style name="Buttonalibaba" parent="android:Widget.Holo.Light.Button">
 	  <item name="android:background">@drawable/alibaba_btn_default_holo_light</item>
@@ -78,7 +78,7 @@
     <style name="ImageButtonalibaba" parent="android:Widget.Holo.Light.ImageButton">
 	  <item name="android:background">@drawable/alibaba_btn_default_holo_light</item>
   </style>
-    <!-- From: file:/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v11/values-v11.xml -->
+    <!-- From: file:/home/galmaegi/바탕화면/alibaba/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v11/values-v11.xml -->
     <eat-comment/>
     <style name="Platform.AppCompat" parent="Platform.V11.AppCompat"/>
     <style name="Platform.AppCompat.Light" parent="Platform.V11.AppCompat.Light"/>
@@ -185,7 +185,7 @@
         <item name="android:actionModeCopyDrawable">?actionModeCopyDrawable</item>
         <item name="android:actionModePasteDrawable">?actionModePasteDrawable</item>
     </style>
-    <!-- From: file:/home/galmaegi/바탕화면/Alibaba_proto/app/src/main/res/values-v11/styles_alibaba.xml -->
+    <!-- From: file:/home/galmaegi/바탕화면/alibaba/app/src/main/res/values-v11/styles_alibaba.xml -->
     <eat-comment/>
     <style name="ProgressBaralibaba" parent="android:Widget.Holo.Light.ProgressBar.Horizontal">
       <item name="android:progressDrawable">@drawable/alibaba_progress_horizontal_holo_light</item>
@@ -215,7 +215,7 @@
     <style name="Togglealibaba" parent="android:Widget.Holo.Light.Button.Toggle">
       <item name="android:background">@drawable/alibaba_btn_toggle_holo_light</item>
   </style>
-    <!-- From: file:/home/galmaegi/바탕화면/Alibaba_proto/app/src/main/res/values-v11/themes_alibaba.xml -->
+    <!-- From: file:/home/galmaegi/바탕화면/alibaba/app/src/main/res/values-v11/themes_alibaba.xml -->
     <eat-comment/>
     <style name="_alibaba" parent="Theme.AppCompat.Light">
 

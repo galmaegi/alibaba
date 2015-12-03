@@ -1,13 +1,9 @@
 package com.example.alibaba;
 
-import java.util.ArrayList;
-import java.util.Collections;
-
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.util.SparseBooleanArray;
 import android.view.Menu;
-import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
@@ -17,6 +13,9 @@ import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import java.util.ArrayList;
+import java.util.Collections;
 
 public class VideoListView extends ActionBarActivity {
 
@@ -70,13 +69,8 @@ public class VideoListView extends ActionBarActivity {
 			@Override
 			public void onClick(View v) {
 				if (listView.getChoiceMode() == ListView.CHOICE_MODE_SINGLE) {
-					int position = listView.getCheckedItemPosition();// 위에선 포지션이
-																		// 이런걸
-																		// 말하는
-																		// 거구나...
-					String text = (String) listView.getItemAtPosition(position);// 텍스트로
-																				// 뽑아주는
-																				// 부분
+					int position = listView.getCheckedItemPosition();
+					String text = (String) listView.getItemAtPosition(position);
 					Toast.makeText(VideoListView.this, "choice item : " + text,
 							Toast.LENGTH_SHORT).show();
 				} else if (listView.getChoiceMode() == ListView.CHOICE_MODE_MULTIPLE) {

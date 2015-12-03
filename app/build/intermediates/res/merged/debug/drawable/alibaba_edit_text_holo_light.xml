@@ -22,4 +22,4 @@
     <item android:state_enabled="true" android:drawable="@drawable/alibaba_textfield_default_holo_light" />
     <item android:state_focused="true" android:drawable="@drawable/alibaba_textfield_disabled_focused_holo_light" />
     <item android:drawable="@drawable/alibaba_textfield_disabled_holo_light" />
-</selector><!-- From: file:/home/galmaegi/바탕화면/Alibaba_proto/app/src/main/res/drawable/alibaba_edit_text_holo_light.xml -->
+</selector><!-- From: file:/home/galmaegi/바탕화면/alibaba/app/src/main/res/drawable/alibaba_edit_text_holo_light.xml -->

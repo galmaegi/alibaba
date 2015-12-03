@@ -20,4 +20,4 @@
     <item android:state_checked="true"  android:drawable="@drawable/alibaba_switch_thumb_activated_holo_light" />
     <item                               android:drawable="@drawable/alibaba_switch_thumb_holo_light" />
 </selector>
-<!-- From: file:/home/galmaegi/바탕화면/Alibaba_proto/app/src/main/res/drawable/alibaba_switch_inner_holo_light.xml -->
+<!-- From: file:/home/galmaegi/바탕화면/alibaba/app/src/main/res/drawable/alibaba_switch_inner_holo_light.xml -->

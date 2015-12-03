@@ -3,4 +3,4 @@
     <item android:state_pressed="true" android:drawable="@drawable/lock_b"></item>
 	<item android:drawable="@drawable/lock_w"></item>
 </selector>
-<!-- From: file:/home/galmaegi/바탕화면/Alibaba_proto/app/src/main/res/drawable/btn_ignore_selector.xml -->
+<!-- From: file:/home/galmaegi/바탕화면/alibaba/app/src/main/res/drawable/btn_ignore_selector.xml -->

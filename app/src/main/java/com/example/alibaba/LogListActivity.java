@@ -1,19 +1,5 @@
 package com.example.alibaba;
 
-import java.io.BufferedReader;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.util.ArrayList;
-
-import org.apache.http.HttpEntity;
-import org.apache.http.HttpResponse;
-import org.apache.http.client.HttpClient;
-import org.apache.http.client.methods.HttpPost;
-import org.apache.http.impl.client.DefaultHttpClient;
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
@@ -24,6 +10,20 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
+
+import org.apache.http.HttpEntity;
+import org.apache.http.HttpResponse;
+import org.apache.http.client.HttpClient;
+import org.apache.http.client.methods.HttpPost;
+import org.apache.http.impl.client.DefaultHttpClient;
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.io.BufferedReader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
 
 public class LogListActivity extends Activity {
 
@@ -125,7 +125,7 @@ public class LogListActivity extends Activity {
 					HttpResponse httpRes = client.execute(Downloadrequest);
 
 
-					////////////////¼­¹ö·ÎºÎÅÍ echo¸¦ ¹Þ¾Æ¿È/////////////////
+
 
 					HttpEntity entity = httpRes.getEntity();
 					inputStream = entity.getContent();
@@ -142,7 +142,7 @@ public class LogListActivity extends Activity {
 					result = sb.toString();
 					if(result.contains("failtofetch"))
 						return null;
-					JSONArray jArray = new JSONArray(result);					//					String result = getXmlData("dupCheckresult.xml", "result"); //ÀÔ·Â ¼º°ø¿©ºÎ
+					JSONArray jArray = new JSONArray(result);					//					String result = getXmlData("dupCheckresult.xml", "result"); //ï¿½Ô·ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½
 
 
 					for (int i=0; i < jArray.length(); i++)
