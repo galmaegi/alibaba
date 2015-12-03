@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="alibaba" parent="@style/_alibaba"/>
+
+  <style name="_alibaba" parent="Theme.AppCompat.Light">
+
+    <item name="android:editTextBackground">@drawable/alibaba_edit_text_holo_light</item>
+
+    <item name="android:textColorHighlight">#99c2956b</item>
+    <item name="android:textSelectHandleLeft">@drawable/alibaba_text_select_handle_left</item>
+    <item name="android:textSelectHandleRight">@drawable/alibaba_text_select_handle_right</item>
+    <item name="android:textSelectHandle">@drawable/alibaba_text_select_handle_middle</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewalibaba</item>
+
+    <item name="android:listChoiceIndicatorMultiple">@drawable/alibaba_btn_check_holo_light</item>
+
+    <item name="android:listChoiceIndicatorSingle">@drawable/alibaba_btn_radio_holo_light</item>
+
+    <item name="android:buttonStyle">@style/Buttonalibaba</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonalibaba</item>
+
+    <item name="android:dropDownSpinnerStyle">@style/Spinneralibaba</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBaralibaba</item>
+
+    <item name="android:seekBarStyle">@style/SeekBaralibaba</item>
+
+    <item name="android:ratingBarStyle">@style/RatingBaralibaba</item>
+
+    <item name="android:ratingBarStyleIndicator">@style/RatingBarBigalibaba</item>
+
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallalibaba</item>
+
+    <item name="android:buttonStyleToggle">@style/Togglealibaba</item>
+
+    <item name="android:listChoiceBackgroundIndicator">@drawable/alibaba_list_selector_holo_light</item>
+
+    <item name="android:activatedBackgroundIndicator">@drawable/alibaba_activated_background_holo_light</item>
+
+    <item name="android:fastScrollThumbDrawable">@drawable/alibaba_fastscroll_thumb_holo</item>
+
+  </style>
+
+</resources>

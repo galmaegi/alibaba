@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="alibaba" parent="@style/_alibaba"/>
+
+  <style name="_alibaba" parent="Theme.AppCompat.Light">
+
+    <item name="android:editTextStyle">@style/EditTextalibaba</item>
+
+    <item name="android:textColorHighlight">#99c2956b</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewalibaba</item>
+
+    <item name="android:checkboxStyle">@style/CheckBoxalibaba</item>
+
+    <item name="android:radioButtonStyle">@style/RadioButtonalibaba</item>
+
+    <item name="android:buttonStyle">@style/Buttonalibaba</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonalibaba</item>
+
+    <item name="android:spinnerStyle">@style/Spinneralibaba</item>
+
+    <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemalibaba</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBaralibaba</item>
+
+    <item name="android:seekBarStyle">@style/SeekBaralibaba</item>
+
+    <item name="android:ratingBarStyle">@style/RatingBaralibaba</item>
+
+    <item name="android:ratingBarStyleIndicator">@style/RatingBarBigalibaba</item>
+
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallalibaba</item>
+
+    <item name="android:buttonStyleToggle">@style/Togglealibaba</item>
+
+    <item name="android:listViewStyle">@style/ListViewalibaba</item>
+
+    <item name="android:listViewWhiteStyle">@style/ListViewalibaba.White</item>
+
+    <item name="android:spinnerItemStyle">@style/SpinnerItemalibaba</item>
+
+  </style>
+
+</resources>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/classes-545afe772b7ca4f6e251d37a6d0d636911b5eb03.jar" />
+    </item>
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/classes-e9801c25efee409d5787db980dcf1fff76567e73.jar" />
+    </item>
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/classes-dfa241235049df2c6ad94fdec32836ca226cb0a8.jar" />
+    </item>
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-fe1f0e7d17aa99810266165cf2b92f48a8d5dd1b.jar" />
+    </item>
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-16428d2df8d4c09509aaf024f8db6243463692ed.jar" />
+    </item>
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/classes-3a86d96b4823d07925e02f6241c27b686e6a0c76.jar" />
+    </item>
+    <item
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-cb45de25033c3665320dd2cafe5df424fd028375.jar" />
+    </item>
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/classes-3faef66dd3576012dfc20fcab8d7cbb1b0da379b.jar" />
+    </item>
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/classes-8decaa79aa24b0900f75b72d64fc83bcc63db34f.jar" />
+    </item>
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/classes-c105e9fc3fcfc8471f095abfd28f157751eae3ef.jar" />
+    </item>
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/classes-0b874855248b31808b4b608b8df0af8d00d5d9d1.jar" />
+    </item>
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/classes-4b033a4c5b510258dd51c716a692c3354652a1a2.jar" />
+    </item>
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/classes-53d8c02a744e137402eea0595d85adf05b82d890.jar" />
+    </item>
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/classes-ac286695eb9e6edc54150750be569605860b83d5.jar" />
+    </item>
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/classes-770cb0cf0ada416ea7da6074a00ddce0b4b9bfb8.jar" />
+    </item>
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/classes-34a53c5e668c3bde45e8992fb1ff2fe16979307b.jar" />
+    </item>
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/classes-9d5c46f0c34a6aa3ba1f50b186bfa1ff547effe3.jar" />
+    </item>
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/classes-75d53fa91100edc3940d7dcd111b96a4aee8f166.jar" />
+    </item>
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/classes-f101f1b984bf1c996b9131cc1ef4ef4ca91f9ab5.jar" />
+    </item>
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/classes-a2254d225f5d3e8be38a7c7ae5c4b219dda1d944.jar" />
+    </item>
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/classes-208840a62873f98e0f2aa148ff6f2658608b7316.jar" />
+    </item>
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/classes-9fe82d9e941b57a131eac8dafb7bdc9be4aa14bc.jar" />
+    </item>
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/classes-35684f2a8d8d67151d1e2dc95f826f5a7446becb.jar" />
+    </item>
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/classes-04a28d925256a3979d08e3eb484a2e6a69928f23.jar" />
+    </item>
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/classes-5643e798c8edbc23c7f6bffcce3c329694ec2334.jar" />
+    </item>
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/classes-b6c2ac791a474d193ce91bf41dce6481646bd54e.jar" />
+    </item>
+    <item
+        jar="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/home/galmaegi/바탕화면/Alibaba_proto/app/build/intermediates/pre-dexed/debug/classes-c0e36f57edc06fd897c9aa9ce7bcb934c60f0eaa.jar" />
+    </item>
+
+</items>

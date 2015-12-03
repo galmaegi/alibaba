@@ -1,0 +1,69 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="30dp"
+    android:background="@drawable/bg_flower_grey"
+    tools:context="com.example.Alibaba.LoginActivity"
+    tools:ignore="MergeRootFrame" >
+    
+    <ImageView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="100dp"
+        android:src="@drawable/alibaba_text_logo"
+        android:textColor="#ffffff" />
+    	
+    <TextView
+        android:id="@+id/textView_ip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="200dp"
+        android:text="ip"
+        android:textColor="#ffffff" />
+
+    <EditText
+        android:id="@+id/e_ip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="200dp"
+        android:ems="10"
+        android:hint="192.168.229.101"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:id="@+id/textView_port"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="250dp"
+        android:text="port"
+        android:textColor="#ffffff" />
+
+    <EditText
+        android:id="@+id/e_port"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="250dp"
+        android:textColor="#ffffff"
+        android:hint="9998"
+        android:ems="10" />
+
+    <Button
+        android:id="@+id/b_ip"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="300dp"
+        android:textColor="#ffffff"
+        android:text="Login" />
+
+</FrameLayout>
+
+<!-- From: file:/home/galmaegi/바탕화면/Alibaba_proto/app/src/main/res/layout/activity_login.xml -->
